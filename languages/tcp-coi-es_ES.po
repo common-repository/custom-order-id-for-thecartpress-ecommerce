@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tcp-coi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-19 09:44+0100\n"
+"PO-Revision-Date: 2013-08-19 09:47+0100\n"
+"Last-Translator: sensei <sensei@thecartpress.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: CustomOrderID.class.php:46
+msgid "Custom Order ID"
+msgstr "ID de Pedido Personalizado"
+
+#: CustomOrderID.class.php:49
+msgid "To apply this change the database user must have privilages to Alter tables. If the ID typed is less than the current ID,  new ID will not be applied."
+msgstr "Para poder aplicar los cambios en la base de datos, el usuario deberá tener provolegios para alterar las tablas. Si el ID introducido es menor que el actual, el nuevo no será  aplicado."
+
+#: CustomOrderID.class.php:73
+msgid "<strong>Custom Order ID for TheCartPress</strong> requires TheCartPress plugin activated."
+msgstr "<strong>Custom Order ID para TheCartPress</strong> requiere activado el plugin TheCartPress."
+
+#: CustomOrderID.class.php:79
+msgid "<strong>Custom Order ID for TheCartPress</strong> requires TheCartPress plugin"
+msgstr "<strong>Custom Order ID for TheCartPress</strong> requiere el plugin TheCartPress"
+
